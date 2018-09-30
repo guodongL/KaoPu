@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <string-array name="arrRedTitles">
+        <item>新房</item>
+        <item>二手房</item>
+        <item>租房</item>
+        <item>公寓</item>
+    </string-array>
+    <string-array name="arrbaseTitles">
+        <item>首页</item>
+        <item>资讯</item>
+        <item>推荐</item>
+        <item>门店</item>
+    </string-array>
+    <array name="arrIconDrawable">
+        <item>@drawable/homepager</item>
+        <item>@drawable/imformation</item>
+        <item>@drawable/recommend</item>
+        <item>@drawable/service</item>
+    </array>
+ <!--   <array name="arrColors">
+        <item>棕色</item>
+        <item>绿色</item>
+        <item>炫彩</item>
+        <item>粉色</item>
+        <item>黄色</item>
+        <item>橙色</item>
+        <item>蓝色</item>
+        <item>灰色</item>
+        <item>金色</item>
+        <item>红色</item>
+        <item>白色</item>
+        <item>银色</item>
+        <item>黑色</item>
+    </array>-->
+
+</resources>
